@@ -526,7 +526,7 @@ footer {
     }
 
     .hamburger {
-        display: inline-block;
+        display: inline-block !important;
         position: absolute;
         top: 15px;
         right: 25px;
@@ -567,6 +567,11 @@ footer {
     .container-noutati {
         width: 100%;
         float: none;
+    }
+
+    .orar-imagini a {
+        height: 145px;
+        width: 145px;
     }
 
 }
