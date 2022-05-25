@@ -2,7 +2,7 @@
 
 :root {
     --primary: white;
-    --secondary: #21ce21;
+    --secondary: #0e9ac4;
     --text: #1d1d1d;
     --sectionbg: #4c6b76b4;
 }
@@ -151,6 +151,10 @@ main section {
     padding: 12px;
     border-radius: 5px;
     background-color: #efefef;
+}
+
+.i-despre {
+    font-size: 22px !important;
 }
 
 .slideshow {
