@@ -205,7 +205,7 @@ main section {
     top: 20%; */
 }
 
-#despre > i, #galerie > i, #contacte > i {
+#despre > i, #galerie > i, #contacte > i, #comisia_m-i > i {
     position: absolute;
     font-size: 2rem;
     z-index: -2;
@@ -343,6 +343,10 @@ main section {
     width: 130px;
     float: right;
     margin-right: 10%;
+}
+
+#comisia_m-i {
+    background: linear-gradient( var(--primary), var(--sectionbg) );
 }
 
 footer {
